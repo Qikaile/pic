@@ -99,7 +99,7 @@ export default {
             owner: this.userConfigInfo?.owner,
             repo: this.userConfigInfo?.selectedRepos,
             path: imageObj.path,
-            message: 'delete by pic.xiaojia.cf',
+            message: 'delete by pic.qikaile.tk',
             sha: imageObj.sha
           }
         }

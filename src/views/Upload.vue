@@ -337,7 +337,7 @@ export default {
       this.uploadStatus.uploading = true;
 
       const data = {
-        'message': 'upload by pic.xiaojia.cf',
+        'message': 'upload by pic.qikaile.tk',
         'branch': selectedBranch,
         'content': this.imgData.base64Content
       }
